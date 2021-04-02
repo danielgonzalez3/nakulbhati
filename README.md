@@ -94,3 +94,6 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="nakulbhati" /> </p>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulbhati&theme=merko&layout=compact&hide_langs_below=1" /></p>
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danielgonzalez3&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgonzalez3&theme=merko&layout=compact&hide_langs_below=1" /></p>
+
+
